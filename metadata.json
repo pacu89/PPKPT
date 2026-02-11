@@ -1,0 +1,7 @@
+{
+  "name": "SIM-PPKPT UNSRI",
+  "description": "Sistem Informasi Pencegahan dan Penanganan Kekerasan di Lingkungan Perguruan Tinggi (PPKPT) Universitas Sriwijaya untuk pengelolaan laporan korban secara terintegrasi.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
